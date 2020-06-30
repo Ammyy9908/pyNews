@@ -7,7 +7,7 @@ with open("README.md","r") as file:
 
 setup(
     name="pyNewsApi",
-    version="0.0.3",
+    version="0.0.4",
     description="This module returns Latest News by category",
     long_description = long_description,
     long_description_content_type="text/markdown",

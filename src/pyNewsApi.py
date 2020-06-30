@@ -18,7 +18,7 @@ class PYNEWS:
 
     def display_country_codes(self):
         '''returns a list of country codes'''
-        codes = self.country_codes.split(" ")
+        codes = self.country_codes
         return codes
 
     def display_sources(self):
@@ -136,7 +136,7 @@ class PYNEWS:
         '''This method returns the list of categories and country codes'''
         return (self.cat,self.country_codes)
 
-    def display_langauges(self):
+    def display_languages(self):
         '''This method returns the list of supported languages'''
         return self.lang
 
