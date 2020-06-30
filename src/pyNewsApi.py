@@ -147,4 +147,4 @@ class PYNEWS:
 
 
 p = PYNEWS()
-p.get_help()
+

@@ -5,11 +5,11 @@
 
 Run the follwoing to install
 
-$pip install pyNews
+$pip install pyNewsApi
 
 ## Usage
 
->>from pyNews import PYNEWS
+>>from pyNewsApi import PYNEWS
 
 >>p = PYNEWS()<br/>
 
