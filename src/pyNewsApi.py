@@ -146,5 +146,5 @@ class PYNEWS:
 
 
 
-p = PYNEWS()
+p 
 
