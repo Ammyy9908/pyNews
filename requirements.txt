@@ -30,7 +30,7 @@ pep517==0.8.2
 Pillow==7.1.2
 pkginfo==1.5.0.1
 pluggy==0.13.1
-py==1.9.0
+py==1.10.0
 Pygments==2.6.1
 pylint==2.5.3
 pyNewsApi==0.0.1
